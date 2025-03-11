@@ -12,7 +12,7 @@ In this lab, you will **apply CSS styles** to the **museum exhibit webpage** you
 ---
 
 ## Step 1: Set Up Your CSS File
-1. Copy and paste the HTMl you prepared from Lab 521 - Structuring web paages with HTML to the same file in Lab 521's directory.
+1. Copy and paste the HTMl you prepared from Lab 521 - Structuring web pages with HTML to the same file in Lab 521's directory.
 2. Access the file named **`style.css`**.
 2. Link it to your HTML file by adding this line inside the `<head>` section of `ancient_egypt.html`:
 
@@ -123,7 +123,7 @@ nav ul li a:hover {
 Use CSS Flexbox to center sections:
 
 ```css
-``.container {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
