@@ -20,8 +20,6 @@ In this lab, you will **apply CSS styles** to the **museum exhibit webpage** you
    <link rel="stylesheet" href="style.css">
    ```
 
-Here are the GitHub Markdown instructions for the CSS styling lab, formatted for direct pasting into a .md file.
-
 ## Step 2: Apply Basic Styling
 
 ### 2.1 Global Styles

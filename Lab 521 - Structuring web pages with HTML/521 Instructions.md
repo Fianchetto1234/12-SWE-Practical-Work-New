@@ -25,12 +25,12 @@ This exhibit explores the art, architecture, and daily life of one of the world�
 Key Highlights:\
 •	The Great Pyramids and their construction\
 •	The discovery of King Tutankhamun’s tomb\
-•	Daily life in ancient Egyptian society\
+•	Daily life in ancient Egyptian society
 
 Exhibit Details:\
 The exhibit is open from March 1, 2025, to August 31, 2025.\
 Location: National History Museum, Main Hall\
-Tickets: $15 for adults, $10 for students, free for children under 12\
+Tickets: `$15 for adults, $10 for students, free for children under 12\
 
 Explore More:\
 Visit our gift shop for exclusive Ancient Egypt-themed items.\
