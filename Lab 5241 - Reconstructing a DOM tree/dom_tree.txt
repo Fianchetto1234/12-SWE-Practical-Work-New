@@ -7,6 +7,6 @@ document
         │   └──
         ├── main
         │   ├── section
-        │       ├──
+        │   │   ├──
         ├── aside
         └── footer
