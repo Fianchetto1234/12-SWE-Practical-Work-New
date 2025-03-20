@@ -17,3 +17,4 @@ document
         ├── script type=application/json id=hydration
         ├── div id=a11y-status-message
         └──
+.
