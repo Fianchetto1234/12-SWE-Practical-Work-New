@@ -2,11 +2,18 @@ document
 └── html
     ├── head
     └── body
-        ├── header
-        │   ├──
-        │   └──
-        ├── main
-        │   ├── section
-        │       ├──
-        ├── aside
-        └── footer
+        ├── script
+        ├── div id=root
+        │   ├── ul id=nav-access class=a11y-nav
+        │       ├── li
+        │       ├── li
+        │       ├── li
+        │   ├── div class=page-wrapper category-javascript document-page
+        │       ├── div class=top-banner fallback
+        │       ├── div class=sticky-header-container
+        │       ├── div class=main-wrapper
+        │   ├── footer id=nav-footer class=page-footer
+        │       ├── div class=page-footer-grid
+        ├── script type=application/json id=hydration
+        ├── div id=a11y-status-message
+        └──
