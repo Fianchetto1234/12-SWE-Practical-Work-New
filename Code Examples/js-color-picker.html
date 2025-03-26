@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Event Handling Example</title>
+  <style>
+    #heading {
+      font-size: 24px;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+<h1 id="heading">Change my colour!</h1>
+<label for="colourInput">Pick a colour:</label>
+<input type="color" id="colourInput">
+
+<script>
+  // Targeting the DOM elements
+  const heading = document.getElementById('heading');
+  const colourInput = document.getElementById('colourInput');
+
+  // Adding an event listener
+  colourInput.addEventListener('input', function() {
+    // Updating the style property of a DOM element
+    heading.style.color = colourInput.value;
+  });
+</script>
+</body>
+</html>
